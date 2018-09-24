@@ -1,2 +1,2 @@
 <?php
-echo sprintf('d%sploy%sd @ Odiso M6 @ Hellocasa', '3', '3');
+echo sprintf(' A d%sploy%sd @ Odiso M6 @ Hellocasa', '3', '3');
